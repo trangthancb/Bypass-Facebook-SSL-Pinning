@@ -1,6 +1,6 @@
 # Bypass-Facebook-SSL-Pinning
 (REQUIRE ROOTED)
-Bypassing Facebook Messenger SSL pinning for newest version 196.0.0.41.95
+Bypassing Facebook SSL pinning for newest version 196.0.0.41.95
 
 
 #### libcoldstart.so
